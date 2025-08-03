@@ -29,9 +29,9 @@ keywords = ["rust", "rust-analyzer", "lsp", "llm", "claude", "ai", "code-analysi
 ra = "rust_analyzer_harness.cli:main"
 
 [project.urls]
-"Homepage" = "https://github.com/gretmn102/rust-analyzer-harness"
-"Bug Reports" = "https://github.com/gretmn102/rust-analyzer-harness/issues"
-"Source" = "https://github.com/gretmn102/rust-analyzer-harness"
+"Homepage" = "https://github.com/Gregory-Cross/rust-analyzer-harness"
+"Bug Reports" = "https://github.com/Gregory-Cross/rust-analyzer-harness/issues"
+"Source" = "https://github.com/Gregory-Cross/rust-analyzer-harness"
 
 [tool.setuptools]
 packages = ["rust_analyzer_harness"]
