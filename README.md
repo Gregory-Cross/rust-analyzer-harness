@@ -80,6 +80,10 @@ When using AI coding assistants, the standard rust-analyzer LSP interface is too
 
 Free and Open Source Software (FOSS) - see LICENSE file for details.
 
+## Credits
+
+Based on the original MVP by Orsen Kucher, which provided the foundation for rust-analyzer LSP integration.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

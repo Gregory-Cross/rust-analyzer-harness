@@ -6,6 +6,9 @@ A persistent, efficient rust-analyzer integration that provides:
 - Caching of analysis results
 - Integration with Claude Code's tool system
 - Support for diagnostics and code actions
+
+Based on original MVP by Orsen Kucher
+Enhanced and streamlined for LLM usage by Gregory Cross
 """
 
 import subprocess
