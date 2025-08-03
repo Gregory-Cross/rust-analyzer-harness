@@ -78,7 +78,7 @@ When using AI coding assistants, the standard rust-analyzer LSP interface is too
 
 ## License
 
-MIT License - see LICENSE file for details.
+Free and Open Source Software (FOSS) - see LICENSE file for details.
 
 ## Contributing
 
